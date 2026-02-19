@@ -3,3 +3,6 @@ So far, a basic .py file that can fetch you a kitty. Just enter the tags, hit en
 
 >[!Note]
 All you need is a python compiler.
+
+>[!Important]
+>Thank you, https://cataas.com/, for such simple way to spread peace and love (or not).
